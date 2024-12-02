@@ -1,0 +1,254 @@
+Date,Town,State/Province,Latitude,Longitude,Number
+11/16/2001,Metairie,LA,30,-90.2,1
+11/1/2001,Metairie,LA,30,-90.2,1
+10/29/2001,Monterrey,NL,25.7,-100.3,1
+10/24/2001,Laurel,MS,31.7,-89.1,1
+10/23/2001,Bryan,TX,30.6,-96.4,1
+10/22/2001,Laurel,MS,31.7,-89.1,1
+10/21/2001,Santiago de Queretaro,QUE,20.4,-100.2,1
+10/20/2001,St. Marks,FL,30.2,-84.2,1
+10/20/2001,Real de Catorce,SLP,23.8,-100.7,1
+10/19/2001,Carrizo Springs,TX,28.5,-100,1
+10/19/2001,Huntsville,TX,30.7,-95.6,1
+10/19/2001,San Luis Potosi,SLP,22.5,-101,1
+10/19/2001,Laurel,MS,31.7,-89.1,1
+10/18/2001,Rio Verde,SLP,22,-100,1
+10/18/2001,Toliman,QUE,21,-100,1
+10/17/2001,Carrizo Springs,TX,28.3,-99.6,1
+10/16/2001,Kerrville,TX,30,-99.1,1
+10/15/2001,Austin,TX,30.2,-97.7,1
+10/14/2001,Keller,TX,32.9,-97.3,1
+10/14/2001,Waxahachie,TX,32.3,-96.8,1
+10/14/2001,Garfield,TX,29,-97.7,1
+10/14/2001,Nederland,TX,30,-94,1
+10/14/2001,Eagle Pass,TX,28.5,-100.5,1
+10/14/2001,Lockhart,TX,29.9,-97.7,1
+10/14/2001,Rochester,NY,43.2,-77.6,1
+10/14/2001,Victoria,TX,28.8,-97,1
+10/14/2001,Richardson,TX,33,-96.7,1
+10/14/2001,Temple,TX,31.1,-97.3,1
+10/14/2001,Irving,TX,32.9,-97,1
+10/14/2001,Hondo,TX,29.4,-99.1,1
+10/14/2001,Cibolo,TX,29.6,-98.2,1
+10/14/2001,Pinal de Amoles,QUE,21.3,-99.5,1
+10/13/2001,Monterrey,NL,25.7,-100.3,1
+10/13/2001,Saltillo,COA,25.4,-101,1
+10/13/2001,Falcon Heights,TX,26.6,-99.1,1
+10/13/2001,Santiago,NL,25.4,-99.8,1
+10/12/2001,Eagle Pass,TX,28.5,-100.5,1
+10/12/2001,Piedras Negras,COA,28.4,-100.3,1
+10/12/2001,San Marcos,TX,29.9,-98,1
+10/12/2001,Piedras Negras,COA,28.4,-100.3,1
+10/12/2001,Saltillo,COA,25.4,-101,1
+10/11/2001,Bryan,TX,30.6,-96.4,1
+10/11/2001,Cedar Park,TX,30.5,-97.8,1
+10/11/2001,Eagle Pass,TX,28.5,-100.5,1
+10/11/2001,Frontera,COA,27,-102.1,1
+10/10/2001,Demorest,GA,34.6,-83.6,1
+10/9/2001,Monclova,COA,26.8,-101.5,1
+10/8/2001,Garza Garcia,NL,25.7,-101.4,1
+10/7/2001,Carrizo Springs,TX,28.5,-100,1
+10/7/2001,Tarpley,TX,29.6,-99.2,1
+10/7/2001,Bertram,TX,30.7,-98,1
+10/6/2001,Del Rio,TX,29.9,-100.9,1
+10/6/2001,Spring Branch,TX,29.9,-98.4,1
+10/6/2001,Houston,TX,29.8,-95.4,1
+10/6/2001,New Haven,CT,41.3,-72.9,1
+10/6/2001,Abilene,TX,32.5,-99.7,1
+10/6/2001,San Antonio,TX,29.5,-98.5,1
+10/5/2001,Stephenville,TX,32.2,-98.2,1
+10/4/2001,New Hampton,NY,41.3,-74.5,1
+10/4/2001,Laurel,MS,31.7,-89.1,1
+10/4/2001,New Orleans,LA,30,-90.1,1
+10/3/2001,East Bridgewater,MA,42,-70.9,1
+10/3/2001,Graham,TX,33.1,-98.6,1
+10/2/2001,Sweet Briar,VA,37.6,-79.1,150
+10/2/2001,Aiken,SC,33.6,-81.7,1
+10/2/2001,Reston,VA,39,-77.3,1
+10/2/2001,Montgomery,AL,32.4,-86.3,1
+10/2/2001,Snellville,GA,33.8,-84,1
+10/2/2001,Yorktown,VA,37.2,-76.5,1
+10/2/2001,Kenner,LA,30,-90.3,1
+10/2/2001,Angleton,TX,29.2,-95.5,1
+10/2/2001,Duck,NC,36.2,-75.8,1
+10/2/2001,Demorest,GA,34.6,-83.6,1
+10/1/2001,Clemson,SC,34.7,-82.8,1
+10/1/2001,Laurel,MS,31.7,-89.2,1
+10/1/2001,New Orleans,LA,30,-90,1
+10/1/2001,Dallas,TX,32.8,-96.8,1
+10/1/2001,Sanderson,TX,30.3,-102.1,1
+10/1/2001,Biloxi,MS,30.4,-88.9,1
+10/1/2001,Belton,TX,31.1,-97.5,1
+9/30/2001,Houston,TX,29.8,-95.4,1
+9/30/2001,Nipomo,CA,35,-120.5,1
+9/30/2001,Pampa,TX,35.4,-100.8,1
+9/30/2001,Albany,TX,32.8,-99.4,1
+9/30/2001,Athens,GA,34,-83.4,1
+9/29/2001,Assateague Island,VA,38.1,-75.2,1
+9/29/2001,Sonora,TX,30.5,-100.5,1
+9/29/2001,Dallas,TX,32.8,-96.8,1
+9/29/2001,Pawnee,OK,36.3,-96.8,1
+9/29/2001,Buffalo,OK,36.8,-99.5,1
+9/29/2001,New Orleans,LA,30,-90.1,1
+9/29/2001,Tulsa,OK,36.1,-96,1
+9/29/2001,San Angelo,TX,31.6,-100.5,1
+9/29/2001,Jenks,OK,36,-96,1
+9/28/2001,Cape May Point,NJ,38.9,-75,1
+9/28/2001,Pickens,SC,34.9,-82.7,1
+9/28/2001,Fiskdale,MA,42.1,-72.1,1
+9/28/2001,Ft. Worth,TX,32.8,-97.4,1
+9/28/2001,Chickasha,OK,35,-98,1
+9/28/2001,Broken Arrow,OK,36,-95.8,1
+9/28/2001,San Angelo,TX,31.5,-100.4,1
+9/28/2001,Landrum,SC,35.1,-82.3,1
+9/28/2001,Mountainburg,AR,35.6,-94.1,1
+9/28/2001,New Orleans,LA,30,-90.1,1
+9/27/2001,Fort Worth,TX,32.8,-97.3,1
+9/27/2001,Jenks,OK,36,-96,1
+9/27/2001,Mountainburg,AR,35.6,-94.1,1
+9/27/2001,Greenville,SC,34.8,-82.4,1
+9/27/2001,Rhome,TX,33.1,-97.5,1
+9/26/2001,Abilene,TX,32.5,-99.7,1
+9/26/2001,Tulsa,OK,36.1,-96,1
+9/26/2001,Greer,SC,34.9,-82.3,1
+9/26/2001,Jenks,OK,36,-96,1
+9/26/2001,Oologah,OK,36.5,-95.7,1
+9/26/2001,Fort Worth,TX,32.8,-97.3,1
+9/26/2001,Williston,VT,44.4,-73.1,1
+9/26/2001,Saint Paul,AR,35.8,-93.8,1
+9/26/2001,Vernal,UT,40.1,-109.5,1
+9/26/2001,North Little Rock,AR,34.9,-92.4,1
+9/25/2001,Mountainburg,AR,35.6,-94.1,1
+9/25/2001,Winfield,KS,37.2,-96.9,1
+9/25/2001,Winters,TX,32,-99.9,1
+9/25/2001,New Hampton,NY,41.3,-74.5,1
+9/25/2001,Eldorado,TX,30.9,-100.6,1
+9/25/2001,Fayetteville,AR,36,-94.1,1
+9/25/2001,Carrollton,TX,33,-96.9,1
+9/24/2001,McLean,VA,38.9,-77.2,1
+9/24/2001,Olney,TX,33.3,-98.7,1
+9/24/2001,Chelsea,OK,36.5,-95.5,1
+9/24/2001,Ardmore,OK,34.2,-97.2,1
+9/24/2001,Woodbridge,NJ,40.6,-74.3,1
+9/24/2001,Riner,VA,37,-80.4,1
+9/24/2001,Oklahoma City,OK,35.4,-97.5,1
+9/24/2001,San Angelo,TX,31.6,-100.5,1
+9/23/2001,Muskogee,OK,35.7,-95.3,1
+9/23/2001,Hammon,OK,35.7,-99.5,1
+9/23/2001,Roseland,VA,37.6,-79.1,89
+9/23/2001,Toronto,ON,43.7,-79.4,1
+9/23/2001,Norman,OK,35.2,-97.5,1
+9/23/2001,Vestavia Hills,AL,33.4,-86.8,1
+9/22/2001,Clinton,MO,38.4,-93.8,1
+9/22/2001,Pretty Prairie,KS,37.8,-98,1
+9/22/2001,Jefferson City,MO,38.5,-92.2,1
+9/22/2001,Hallsville,MO,39.1,-92.2,1
+9/22/2001,Sweet Briar,VA,37.6,-79.1,20
+9/22/2001,Kansas City,MO,39.1,-94.6,1
+9/22/2001,"Hyde Park,",NY,41.9,-73.9,1
+9/22/2001,Richmond,KS,38.4,-95.3,1
+9/22/2001,Grayslake,IL,42.3,-88,1
+9/22/2001,Dodge City,KS,37.7,-100.1,1
+9/22/2001,Hendersonville,NC,35.3,-82.5,1
+9/22/2001,Old Fort,NC,35.6,-82.2,1
+9/22/2001,Morristown,NJ,40.8,-74.5,1
+9/21/2001,Warsaw,KS,38.2,-93.4,1
+9/21/2001,Lincoln,NE,40.8,-96.7,1
+9/21/2001,Whittier,NC,35.4,-83.3,1
+9/20/2001,Shawnee,KS,39,-94.7,1
+9/20/2001,Camdenton,MO,38,-92.8,1
+9/20/2001,Pekin,IL,40.5,-89.6,1
+9/20/2001,Kansas City,MO,39.1,-94.6,1
+9/20/2001,Youngsville,PA,41.9,-79.3,1
+9/19/2001,Overland Park,KS,39,-94.7,1
+9/19/2001,Shawnee Mission,KS,39,-94.7,1
+9/19/2001,Nellysford,VA,37.8,-79,150
+9/19/2001,Emporia,KS,38.6,-96.2,1
+9/19/2001,Woodbridge,NJ,40.6,-74.3,1
+9/18/2001,Manhattan,KS,39.2,-96.6,1
+9/18/2001,Lincoln,NE,40.8,-96.7,1
+9/18/2001,East Bridgewater,MA,42,-70.9,1
+9/17/2001,Oneida,NY,43.1,-75.7,1
+9/17/2001,Lincoln,NE,40.8,-96.7,1
+9/17/2001,Mystic,CT,41.4,-72,1
+9/17/2001,Cherry Lane,NC,36.4,-81,1
+9/16/2001,Charlotte,VT,44.3,-73.3,1
+9/16/2001,Kansas City,KS,39.1,-94.6,1
+9/15/2001,Altoona,IA,41.6,-93.5,1
+9/15/2001,Bethany,MO,40.3,-94,1
+9/15/2001,Bethany,MO,40.3,-94,1
+9/15/2001,Cub Run,KY,37.3,-86.1,1
+9/14/2001,Kansas City,MO,39.1,-94.6,1
+9/14/2001,Altoona,IA,41.6,-93.5,1
+9/14/2001,Malvern,PA,40,-75.5,1
+9/14/2001,Vernon,NJ,39.9,-75,1
+9/14/2001,Charlottesville,VA,38.1,-78.4,1
+9/13/2001,Margate,NJ,39.3,-74.5,1
+9/13/2001,Marengo,IL,42.2,-88.6,1
+9/13/2001,Altoona,IA,41.6,-93.5,1
+9/12/2001,Margate,NJ,39.3,-74.5,1
+9/12/2001,Burlington,VT,44.5,-73.2,1
+9/12/2001,Clinton,IA,41.9,-90.3,1
+9/12/2001,Hastings,NE,40.6,-98.4,1
+9/12/2001,Toronto,ON,43.7,-79.4,1
+9/12/2001,Port Dover,ON,42.8,-80.2,1
+9/12/2001,Trapp,VA,39,-77.5,1
+9/12/2001,Jefferson Hills,PA,40.3,-79.9,1
+9/12/2001,York,NE,40.8,-97.5,1
+9/12/2001,Cub Run,KY,37.3,-86.1,1
+9/11/2001,Tekamah,NE,41.8,-96.2,1
+9/11/2001,Barstow,IL,41.5,-90.3,1
+9/11/2001,Brighton,ON,44.1,-77.8,1
+9/10/2001,Kalona,IA,41.5,-91.7,1
+9/10/2001,Zeeland,MI,42.8,-86,1
+9/10/2001,Kalona,IA,41.5,-91.7,1
+9/10/2001,Center Junction,IA,42.1,-91.1,1
+9/10/2001,Omaha,NE,41.3,-95.9,1
+9/10/2001,Montfort,WI,43,-90.5,1
+9/10/2001,Prairie City,IA,41.6,-93.3,1
+9/10/2001,Antioch,IL,42.5,-88.1,1
+9/10/2001,Livingston,WI,42.9,-90.5,1
+9/9/2001,Lake Park,IA,43.4,-95.3,1
+9/9/2001,Sergeant Bluff,IA,42.4,-96.4,1
+9/8/2001,Altoona,IA,41.6,-93.5,1
+9/8/2001,Seymour,IA,40.6,-93.2,1
+9/8/2001,Quakertown,PA,40.5,-75.3,1
+9/8/2001,Hinton,IA,42.6,-96.3,1
+9/8/2001,Vining,IA,42,-92.4,1
+9/8/2001,Fairborn,OH,39.8,-84,1
+9/8/2001,Urbana,IL,40.1,-88.2,1
+9/6/2001,Thornburg,IA,41.5,-92.3,1
+9/6/2001,Carroll,IA,42.1,-94.9,1
+9/5/2001,Hudson,IA,42.4,-92.5,1
+9/4/2001,Washington,IA,41.3,-91.7,1
+9/4/2001,State Center,IA,42,-93.2,1
+9/3/2001,Altoona,IA,41.6,-93.5,1
+9/3/2001,Sioux City,IA,42.5,-96.4,1
+9/3/2001,Sloan,IA,42.3,-96.2,1
+9/3/2001,Adel,IA,41.7,-94.1,1
+9/2/2001,Prairie City,IA,41.6,-93.3,1
+9/2/2001,Tripoli,IA,42.8,-92.3,1
+9/1/2001,Jamestown,ND,46.9,-98.7,1
+8/30/2001,Cresco,IA,43.4,-92.2,1
+8/29/2001,Port Burwell,ON,42.7,-80.8,1
+8/28/2001,kanawha,IA,43,-93.7,1
+8/28/2001,Huxley,IA,41.9,-93.6,1
+8/28/2001,Clifford,ND,47.4,-97.4,1
+8/27/2001,Auburn,ON,43.8,-81.6,1
+8/26/2001,Winona,MN,44,-91.6,1
+8/26/2001,Ellsworth,WI,44.7,-92.5,1
+8/26/2001,Sioux Falls,SD,43.5,-96.7,1
+8/25/2001,New Hampton,IA,43.1,-92.3,1
+8/25/2001,Churchs Ferry,ND,48.3,-99.2,1
+8/20/2001,Toledo,OH,41.6,-83.5,1
+8/18/2001,Pine Island,MN,44.2,-92.7,1
+8/18/2001,Brooklyn Park,MN,45.1,-93.4,1
+8/17/2001,St Ignace,MI,45.9,-84.7,1
+8/16/2001,Hassan,MN,45.2,-93.6,1
+8/16/2001,Sault Sainte Marie,ON,46.3,-84.2,1
+8/15/2001,Hammond,WI,45,-92.5,1
+8/14/2001,Northfield,MN,44.5,-93.2,1
+8/9/2001,Grygla,MN,48.3,-95.6,1
+8/9/2001,Duluth,MN,46.8,-92.1,1
+8/7/2001,Argyle,MB,50.2,-97.5,1
+8/1/2001,Winnipeg,MB,49.9,-97.1,1

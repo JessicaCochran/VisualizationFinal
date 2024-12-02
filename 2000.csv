@@ -1,0 +1,177 @@
+Date,Town,State/Province,Latitude,Longitude,Number
+12/4/2000,Port Lavaca,TX,28.5,-96.7,1
+10/29/2000,Pensacola,FL,30.4,-87.2,1
+10/28/2000,Santa Catarina,NL,25.5,-100.4,1
+10/27/2000,campbell,TX,33.1,-95.9,1
+10/27/2000,Forest Park,GA,33.6,-84.4,1
+10/25/2000,Piedras Negras,COA,28.6,-100.3,1
+10/22/2000,Teotihuacan,MEX,19.5,-99,1
+10/22/2000,Sonora,TX,30.5,-100.5,1
+10/22/2000,Pecos River,TX,29.7,-95.6,1
+10/20/2000,San Antonio,TX,29.5,-98.5,1
+10/19/2000,Demorest,GA,34.6,-83.6,1
+10/18/2000,Montgomery,AL,32.4,-86.3,1
+10/18/2000,brooksville,FL,28.6,-82.4,1
+10/18/2000,brooksville,FL,28.6,-82.4,1
+10/18/2000,San Antonio,TX,29.5,-98.5,1
+10/18/2000,Port Lavaca,TX,28.5,-96.7,1
+10/18/2000,Blanco,TX,30.1,-98.4,1
+10/18/2000,Monterrey,NL,25.7,-100.3,1
+10/18/2000,Angangueo,MIC,19.6,-100.3,1
+10/18/2000,Saltillo,COA,25.4,-101,1
+10/18/2000,Matehuala,SLP,23.7,-100.7,1
+10/18/2000,La Ciénega,GUA,21.3,-100.5,1
+10/17/2000,Sapulpa,OK,36,-96.1,1
+10/17/2000,Liberty Hill,TX,30.7,-97.9,1
+10/16/2000,Brownwood,TX,31.6,-99,1
+10/15/2000,Boca Raton,FL,26.3,-80.1,1
+10/15/2000,Campbell,TX,33.1,-95.9,1
+10/15/2000,Monterrey,NL,25.7,-100.3,1
+10/14/2000,Gulf Breeze,FL,30.4,-87.1,1
+10/13/2000,Corpus Christi,TX,27.8,-97.4,1
+10/12/2000,Austin,TX,30.2,-97.4,1
+10/12/2000,Kingsland,TX,30.7,-98.5,1
+10/11/2000,Montgomery,AL,32.4,-86.3,1
+10/11/2000,Austin,TX,30.2,-97.7,1
+10/11/2000,Pensacola,FL,30.4,-87.2,1
+10/11/2000,Port Lavaca,TX,28.5,-96.7,1
+10/11/2000,Georgetown,TX,30.6,-97.7,1
+10/11/2000,"Texarkana,",AR,33.5,-93.9,1
+10/10/2000,Midland,TX,32,-102.1,1
+10/10/2000,Burnet,TX,30.5,-98.1,1
+10/9/2000,Assateague Island,VA,38.1,-75.1,1
+10/9/2000,Feyetteville,AR,36,-94.1,1
+10/7/2000,Victoria,TX,28.8,-97,1
+10/6/2000,Anniston,AL,33.7,-85.8,1
+10/6/2000,Richardson,TX,33,-96.7,1
+10/6/2000,Garland,TX,32.9,-96.6,1
+10/6/2000,Fayetteville,AR,36,-94.1,1
+10/6/2000,Clarkesville,GA,34.7,-83.5,1
+10/5/2000,Columbus,MS,33.3,-88.3,1
+10/5/2000,Broken Arrow,OK,36,-95.8,1
+10/5/2000,Hartselle,AL,34.4,-86.9,1
+10/5/2000,Richardson,TX,33,-96.7,1
+10/5/2000,Richardson,TX,33,-96.7,1
+10/5/2000,"Wichita Falls,",TX,33.5,-98.3,1
+10/5/2000,St Augustine,FL,29.8,-81.2,1
+10/5/2000,Lawton,OK,34.5,-98.3,1
+10/5/2000,Kings Bay,GA,30.8,-81.8,1
+10/5/2000,Clarkesville,GA,34.7,-83.5,1
+10/4/2000,Woodbridge,NJ,40.6,-74.3,1
+10/4/2000,Pickens,SC,34.9,-82.7,1
+10/4/2000,Glengary,WV,39.2,-78.1,1
+10/4/2000,"Wichita Falls,",TX,33.5,-98.3,1
+10/4/2000,Gainesville,GA,34.3,-83.8,1
+10/4/2000,Broken Arrow,OK,36,-95.8,1
+10/4/2000,Houston,TX,29.8,-95.4,1
+10/4/2000,Bronte,TX,31.9,-100.3,1
+10/4/2000,Richardson,TX,32.6,-96.4,1
+10/4/2000,Richardson,TX,32.6,-96.4,1
+10/4/2000,"Washington, D. C.",DC,38.9,-77,1
+10/3/2000,Saltillo,COA,25.4,-101,1
+10/3/2000,Montgomery,AL,32.2,-86.1,1
+10/3/2000,Asheville,NC,35.6,-82.6,1
+10/3/2000,Broken Arrow,OK,36,-95.8,1
+10/3/2000,Mission,TX,26.3,-98.4,1
+10/3/2000,Yonkers,NY,40.9,-73.9,1
+10/2/2000,Woodbridge,NJ,40.6,-74.3,1
+10/2/2000,New Hampton,NY,41.3,-74.5,1
+10/2/2000,Richardson,TX,32.6,-96.4,1
+10/2/2000,Rock Hill,SC,34.9,-81,1
+10/2/2000,Murfreesboro,TN,35.9,-86.4,1
+10/2/2000,Maryville,TN,35.6,-83.6,1
+10/2/2000,Landrum,SC,35.1,-82.1,1
+10/2/2000,Broken Arrow,OK,36,-95.8,1
+10/1/2000,Nashville,TN,36.2,-86.8,1
+10/1/2000,Rock Island,IL,41.5,-90.6,1
+10/1/2000,Murfreesboro,TN,35.5,-86.2,1
+10/1/2000,Oxford,NJ,40.8,-75,1
+10/1/2000,Midland,TX,31.8,-102,1
+10/1/2000,Syracuse,NY,43,-76.2,1
+10/1/2000,bowie,MD,39,-76.7,1
+10/1/2000,"Memphis,",TN,35,-90,1
+9/30/2000,Tupelo,MS,34.3,-88.7,1
+9/30/2000,North Little Rock,AR,34.9,-92.4,1
+9/30/2000,Columbus,MS,33.5,-88.5,1
+9/30/2000,Syracuse,NY,43,-76.2,1
+9/30/2000,Monclova,COA,26.8,-101.5,1
+9/30/2000,Ballinger,TX,31.8,-99.9,1
+9/29/2000,Hartselle,AL,34.4,-86.9,1
+9/29/2000,Plano,TX,33.1,-96.7,1
+9/29/2000,Midland,TX,32,-102.1,1
+9/29/2000,Nashville,TN,36.2,-86.8,1
+9/29/2000,Fort Smith,AR,35.4,-94.4,1
+9/29/2000,Soper,OK,34,-95.4,1
+9/29/2000,Joplin,MO,37.1,-94.3,1
+9/28/2000,Bedford Hills,NY,41.2,-73.7,1
+9/28/2000,Hallsville,MO,39.1,-92.2,1
+9/28/2000,Syracuse,NY,43,-76.2,1
+9/28/2000,Richardson,TX,33,-96.7,1
+9/27/2000,Richardson,TX,33,-96.7,1
+9/27/2000,Portville,NY,42,-78.3,1
+9/27/2000,Bay Head,NJ,40.1,-74.1,1
+9/27/2000,Syracuse,NY,43,-76.2,1
+9/27/2000,Catarina,TX,28.3,-99.5,1
+9/27/2000,Bolton Landing,NY,43.6,-73.7,1
+9/27/2000,GRANBURY,TX,32.3,-97.5,1
+9/27/2000,Ammagansett,NY,41,-72.2,1
+9/27/2000,La Grange,KY,38.4,-85.4,1
+9/27/2000,Carmel,IN,40,-86.2,1
+9/27/2000,San Antonio,TX,29.5,-98.5,1
+9/27/2000,Hebron,MD,38.4,-75.7,1
+9/27/2000,Nashville,TN,36.2,-86.8,1
+9/27/2000,Yonkers,NY,40.9,-73.9,1
+9/27/2000,Gibsonia,PA,40.6,-79.9,1
+9/26/2000,Columbia,MO,38.6,-92.2,1
+9/26/2000,Goldthwaite,TX,31.4,-98.6,1
+9/26/2000,Gainesville,TX,33.4,-97.1,1
+9/25/2000,Klein,TX,30,-95.5,1
+9/25/2000,Tyngsboro,MA,42.7,-71.4,1
+9/25/2000,Joplin,MO,37.1,-94.5,1
+9/24/2000,Odessa,TX,31.8,-102.3,1
+9/24/2000,Floyd,VA,36.5,-80.2,1
+9/23/2000,Joplin,MO,37.1,-94.5,1
+9/23/2000,Odessa,TX,31.8,-102.3,1
+9/22/2000,Midland,TX,32,-102.1,1
+9/22/2000,Odessa,TX,31.8,-102.3,1
+9/22/2000,San Angelo,TX,31.6,-100.5,1
+9/22/2000,Mentor,OH,41.4,-81.2,1
+9/22/2000,Bronte,TX,31.9,-100.3,1
+9/22/2000,Cleveland,OH,41.5,-81.7,1
+9/21/2000,Emporia,KS,38.6,-96.2,1
+9/20/2000,Muskogee,OK,35.7,-95.3,1
+9/20/2000,Overland Park,KS,39,-94.7,1
+9/20/2000,Sweet Briar,VA,37.6,-79.1,1
+9/18/2000,Aline,OK,36.5,-98.5,1
+9/18/2000,Guys Mills,PA,41.6,-80,1
+9/15/2000,Iowa City,IA,41.7,-91.5,1
+9/13/2000,Galesburg,IL,40.9,-90.4,1
+9/13/2000,Mount Carroll,IL,42.1,-90,1
+9/12/2000,Des Moines,IA,41.6,-93.6,1
+9/12/2000,Cresco,IA,43.4,-92.2,1
+9/12/2000,Shenandoah,IA,40.7,-95.3,1
+9/12/2000,Galesburg,IL,41,-90.4,1
+9/11/2000,York,NE,40.8,-97.5,1
+9/11/2000,Tama,IA,41.6,-92.3,1
+9/11/2000,Waterloo,IA,42.4,-92.3,1
+9/11/2000,Mount Vernon,IA,41.9,-91.4,1
+9/10/2000,Omaha,NE,41.3,-95.9,1
+9/8/2000,Shenandoah,IA,40.7,-95.3,1
+9/7/2000,Omaha,NE,41.3,-95.9,1
+9/6/2000,Gaylord,MN,48.4,-92.5,1
+9/5/2000,Algona,IA,43.1,-94.2,1
+9/3/2000,Rutland,SD,44.1,-96.6,1
+9/3/2000,Tripoli,IA,42.8,-92.3,1
+9/1/2000,Milwaukee,WI,43,-87.9,1
+8/28/2000,Sioux Falls,SD,43.5,-96.7,1
+8/28/2000,Aurora,SD,44.3,-96.7,1
+8/26/2000,Grand Manan Island,NB,44.1,-66.8,1
+8/26/2000,Point Lepreau,NB,45.1,-66.5,1
+8/20/2000,Fargo,ND,46.9,-96.8,1
+8/17/2000,Brooklyn Park,MN,45.1,-93.2,1
+8/17/2000,Wolverton,MN,46.5,-96.6,1
+8/16/2000,Kimball,MN,45.4,-94.3,1
+8/16/2000,Little Falls,MN,46,-94.3,1
+8/15/2000,Wayzata,MN,45,-93.5,1
+8/15/2000,Brooklyn Park,MN,45,-93.3,1
+8/8/2000,Walker,MN,47.1,-94.5,1

@@ -1,0 +1,410 @@
+Date,Town,State/Province,Latitude,Longitude,Number
+12/26/2006,Angangueo,MIC,19.6,-100.3,1
+11/11/2006,Tequisquiapan,QUE,20.5,-99.9,1
+11/8/2006,Tequisquiapan,QUE,20.5,-99.9,1
+11/7/2006,Rio Frio,TX,29.7,-99.8,1
+11/7/2006,Port Lavaca,TX,28.5,-96.7,1
+11/2/2006,Queretaro,QUE,20.6,-100.4,1
+11/2/2006,Queretaro,QUE,20.6,-100.4,1
+11/2/2006,Queretaro,QUE,20.6,-100.4,1
+11/2/2006,Port Lavaca,TX,28.5,-96.7,1
+10/30/2006,Sullivans Island,SC,32.8,-79.8,1
+10/29/2006,Port Lavaca,TX,28.5,-96.7,1
+10/28/2006,Port Lavaca,TX,28.5,-96.7,1
+10/28/2006,Mercedes,TX,26.1,-97.9,1
+10/27/2006,Charleston,SC,32.8,-79.9,1
+10/26/2006,Tequisquiapan,QUE,20.5,-99.9,1
+10/26/2006,Saltillo,COA,25.4,-101,1
+10/26/2006,Saltillo,COA,25.4,-101,1
+10/24/2006,Saltillo,COA,25.4,-101,1
+10/24/2006,Port Lavaca,TX,28.5,-96.7,1
+10/24/2006,Saltillo,COA,25.4,-101,1
+10/23/2006,Saltillo,COA,25.4,-101,1
+10/22/2006,Saltillo,COA,25.4,-101,1
+10/22/2006,Pensacola,FL,30.4,-87.2,1
+10/22/2006,Saltillo,COA,25.4,-101,1
+10/22/2006,Galeana,NL,24.8,-100.1,1
+10/22/2006,Monclava,COA,26.8,-101.5,1
+10/21/2006,Houston,TX,29.8,-95.4,1
+10/21/2006,Austin,TX,30.2,-97.7,1
+10/21/2006,La Marque,TX,29.4,-95,1
+10/21/2006,Monterrey,NL,25.7,-100.3,1
+10/21/2006,Comanche,TX,31.9,-98.7,1
+10/21/2006,Saltillo,COA,25.4,-101,1
+10/21/2006,Arteaga,COA,25.5,-100.9,1
+10/21/2006,El Carmen,COA,26.8,-101.5,1
+10/20/2006,Texas City,TX,29.4,-94.9,1
+10/20/2006,Austin,TX,30.2,-97.7,1
+10/20/2006,Monterrey,NL,25.7,-100.3,1
+10/20/2006,Saltillo,COA,25.4,-101,1
+10/20/2006,Cuatociénegas,COA,27,-102.1,1
+10/20/2006,Escobedo,NL,25.2,-99.9,1
+10/19/2006,Mercedes,TX,26.1,-97.9,1
+10/19/2006,Roma,TX,26.6,-99,1
+10/19/2006,Saltillo,COA,25.4,-101,1
+10/19/2006,Monterrey,NL,25.7,-100.3,1
+10/19/2006,Monterrey,NL,25.7,-100.3,1
+10/18/2006,San Antonio,TX,29.5,-98.5,1
+10/18/2006,San Antonio,TX,29.5,-98.5,1
+10/17/2006,Kingfisher,OK,35.9,-98,1
+10/17/2006,Port Lavaca,TX,28.5,-96.7,1
+10/17/2006,Canadian,TX,35.9,-100.4,1
+10/17/2006,Alvarado,TX,32.4,-97.2,1
+10/17/2006,Eagle Pass,TX,28.6,-100.3,1
+10/16/2006,Eagle Pass,TX,28.6,-100.3,1
+10/16/2006,Maverick County,TX,28.8,-100.4,1
+10/16/2006,Radar Base,TX,28.9,-100.5,1
+10/16/2006,Eagle Pass,TX,28.6,-100.3,1
+10/16/2006,Buda,TX,30.1,-97.9,1
+10/16/2006,Norman,OK,35.2,-97.5,1
+10/16/2006,Del Rio,TX,29.9,-100.9,1
+10/16/2006,Cotulla,TX,28.4,-99.1,1
+10/16/2006,Del Rio,TX,29.9,-100.9,1
+10/15/2006,Kingfisher,OK,35.9,-98,1
+10/15/2006,Wimberley,TX,30.1,-98.1,1
+10/15/2006,Uvalde,TX,29.3,-99.9,1
+10/15/2006,Cypress Mill,TX,30.4,-98.3,1
+10/14/2006,Austin,TX,30.2,-97.7,1
+10/14/2006,Austin,TX,30.2,-97.7,1
+10/14/2006,Port Lavaca,TX,28.7,-96.6,1
+10/14/2006,Corpus Christi,TX,27.8,-97.4,1
+10/14/2006,Rockport,TX,28.2,-97,1
+10/14/2006,Leander,TX,29.8,-100.5,1
+10/14/2006,Del Rio,TX,29.9,-100.9,1
+10/14/2006,Corpus Christi,TX,27.8,-97.4,1
+10/14/2006,Hudson Bend,TX,30.4,-97.9,1
+10/14/2006,Oasis Ranch,TX,30.5,-101.8,1
+10/14/2006,Cedar Park,TX,30.5,-97.8,1
+10/13/2006,Tarpley,TX,29.6,-99.2,1
+10/13/2006,Utley,TX,30.2,-97.4,1
+10/13/2006,Tarpley,TX,29.6,-99.2,1
+10/13/2006,Comal County,TX,29.8,-98.3,1
+10/13/2006,Camp Wood,TX,29.7,-100,1
+10/13/2006,Utopia,TX,29.6,-99.6,1
+10/13/2006,Kingfisher,OK,35.9,-98,1
+10/13/2006,Eden,TX,31.2,-99.9,1
+10/13/2006,Concan,TX,29.5,-99.7,1
+10/13/2006,Reagan Wells,TX,27.7,-97.4,1
+10/13/2006,Camp Wood,TX,29.7,-100,1
+10/13/2006,Fair Oaks Ranch,TX,29.7,-98.6,1
+10/13/2006,Mineral Wells,TX,32.8,-98.1,1
+10/13/2006,Uvalde,TX,29.3,-99.9,1
+10/13/2006,Kendall Park,NJ,40.4,-74.6,1
+10/13/2006,Fair Oaks Ranch,TX,29.7,-98.6,1
+10/13/2006,Port Aransas,TX,27.9,-97.1,1
+10/13/2006,Austin,TX,30.2,-97.7,1
+10/13/2006,Boerne,TX,29.8,-98.8,1
+10/12/2006,UTLEY,TX,30.2,-97.4,1
+10/12/2006,Round Rock,TX,30.5,-97.7,1
+10/12/2006,Balcones Canyonlands,TX,30.3,-97.8,1
+10/12/2006,Canyon Lake,TX,29.9,-98.3,1
+10/12/2006,San Antonio,TX,29.5,-98.5,1
+10/12/2006,Kerrville,TX,30,-99.1,1
+10/12/2006,Hunt,TX,30,-99.6,1
+10/12/2006,Austin,TX,30.2,-97.7,1
+10/12/2006,Edisto Island,SC,32.6,-80.3,1
+10/12/2006,Georgetown,TX,30.6,-97.7,1
+10/12/2006,Austin,TX,30.2,-97.7,1
+10/12/2006,San Antonio,TX,29.5,-98.5,1
+10/12/2006,Austin,TX,30.2,-97.7,1
+10/11/2006,Mertzon,TX,31.3,-100.9,1
+10/11/2006,Aworth,GA,34,-84.7,1
+10/11/2006,Columbus,NC,35.2,-82.1,1
+10/11/2006,Columbia,SC,34,-81,1
+10/11/2006,Fredrick,OK,34.4,-99,1
+10/11/2006,Wichita Falls,TX,34,-98.5,1
+10/11/2006,Clarkesville,GA,34.7,-83.5,1
+10/11/2006,Ciudad de Acuña,COA,29,-101,1
+10/10/2006,Bellows Falls,VT,43.2,-72.5,1
+10/10/2006,North Beach,NJ,39.6,-74.2,1
+10/10/2006,Dover,DE,38.5,-75,1
+10/9/2006,Mansfield / Grand Prairie,TX,32.6,-97.1,1
+10/9/2006,Tulsa,OK,36.1,-96,1
+10/9/2006,Flower Mound,TX,33,-97.1,1
+10/9/2006,North Beach,NJ,39.6,-74.2,1
+10/9/2006,Dallas,TX,32.8,-96.8,1
+10/9/2006,Oklahoma City,OK,35.4,-97.5,1
+10/9/2006,Abilene,TX,32.5,-99.7,1
+10/9/2006,Killeen,TX,31.1,-97.7,1
+10/9/2006,Bronte,TX,31.9,-100.3,1
+10/8/2006,Kingfisher,OK,35.9,-98,1
+10/8/2006,Oklahoma City,OK,35.4,-97.5,1
+10/8/2006,Norman,OK,35.2,-97.5,1
+10/8/2006,Graford,TX,32.9,-98.3,1
+10/8/2006,Cleburne,TX,32.3,-97.5,1
+10/8/2006,Beckley,WV,37.8,-81.2,1
+10/8/2006,Wichita Falls,TX,34,-98.5,1
+10/8/2006,St. Mark's NWR,FL,30.1,-84.2,1
+10/7/2006,Ft Griffin State Park,TX,32.9,-99.2,1
+10/7/2006,Boyd,TX,33.1,-97.6,1
+10/7/2006,Metairie,LA,30,-90.2,1
+10/7/2006,Hays,KS,38.8,-99.3,1
+10/7/2006,Wilmot,AR,33.1,-91.6,1
+10/7/2006,Denton,TX,33.2,-97.1,1
+10/7/2006,St.Louis,MO,38.6,-90.4,1
+10/6/2006,Tyndal AFB,FL,30.1,-85.6,1
+10/6/2006,Irving,TX,32.9,-97,1
+10/6/2006,Lawrence,KS,39,-95.2,1
+10/6/2006,Midland,TX,32,-102.1,1
+10/6/2006,Irving,TX,32.9,-97,1
+10/6/2006,Tiger,GA,34.8,-83.4,1
+10/5/2006,South Berwick,ME,43.2,-70.8,1
+10/5/2006,Block Island,RI,41.2,-71.6,1
+10/5/2006,Bronte,TX,31.9,-100.3,1
+10/5/2006,Port Lavaca,TX,28.5,-96.7,1
+10/5/2006,Port Lavaca,TX,28.5,-96.7,1
+10/4/2006,Murfreesboro,TN,35.9,-86.4,1
+10/4/2006,Somerville,MA,42.4,-71.1,1
+10/4/2006,Stratford,CT,41.2,-73.1,1
+10/4/2006,Dallas,TX,32.8,-96.8,1
+10/4/2006,Westbrook,CT,41.3,-72.5,1
+10/3/2006,Middlesboro,KY,36.6,-83.7,1
+10/3/2006,Crown Point,NY,44,-73.4,1
+10/3/2006,Staten Island,NY,40.6,-74.1,1
+10/3/2006,MASHPEE,MA,41.6,-70.5,1
+10/3/2006,Hanson,MA,42.1,-70.9,1
+10/3/2006,Randall's Island,NY,40.8,-73.9,1
+10/3/2006,Pottawatomie County,OK,35.2,-97,1
+10/3/2006,Panama City,FL,30.2,-85.6,1
+10/3/2006,Cub Run,KY,37.3,-86.1,1
+10/2/2006,Chincoteague National Wildlife Refu,VA,37.9,-75.3,1
+10/2/2006,marblehead,MA,42.5,-70.9,1
+10/2/2006,Fire Island,NY,40.7,-73.1,1
+10/2/2006,Beach Haven,NJ,39.6,-74.2,1
+10/2/2006,Ocean Beach,NY,40.7,-73.1,1
+10/2/2006,Stone Harbor,NJ,39,-74.8,1
+10/2/2006,"Saltaire, Fire Island",NY,40.8,-74,1
+10/2/2006,Rappahannock River,VA,37.7,-76.3,1
+10/2/2006,Medford,MA,42.4,-71.1,1
+10/2/2006,Fire Island,NY,40.7,-73.3,1
+10/2/2006,Montauk,NY,41,-71.9,1
+10/2/2006,East Hampton,NY,41,-72.2,1
+10/2/2006,Cotuit,MA,41.6,-70.4,1
+10/2/2006,Long Beach,NY,40.6,-73.6,1
+10/2/2006,Graham,TX,33.1,-98.6,1
+10/1/2006,Memphis,TN,35,-89.9,1
+10/1/2006,Richmond,KY,37.8,-84.3,1
+10/1/2006,Glengary,WV,39.4,-78.2,1
+10/1/2006,Dover,DE,39.1,-75.5,1
+10/1/2006,old greenwich,CT,41,-73.6,1
+10/1/2006,Varina,VA,37.5,-77.1,1
+10/1/2006,Millville,NJ,39.3,-75,1
+10/1/2006,"Graford, Possum Kingdom Lake Texas",TX,32.9,-98.3,1
+10/1/2006,Columbia,KY,37.1,-85.2,1
+10/1/2006,St Marys City,MD,39,-77.1,1
+10/1/2006,Oconee County,SC,34.7,-83.1,1
+9/30/2006,"Mooresville, NC",NC,41.9,-88.3,1
+9/30/2006,Summit,AR,36.3,-92.7,1
+9/30/2006,Hardin,KY,36.8,-88.2,1
+9/30/2006,Dover,DE,39.1,-75.5,1
+9/30/2006,Hardin,KY,36.8,-88.2,1
+9/30/2006,Charlotte,NC,35.2,-80.8,1
+9/30/2006,Oak Ridge,TN,36,-84.3,1
+9/30/2006,Clemson,SC,34.7,-82.8,1
+9/30/2006,Danielsville,GA,34.2,-83.3,1
+9/30/2006,Simpsonville,SC,34.7,-82.3,1
+9/30/2006,West Newbury,MA,42.8,-71,1
+9/30/2006,Greensboro,NC,36.1,-79.8,1
+9/30/2006,Center Moriches,NY,40.8,-72.8,1
+9/30/2006,Long Branch,NJ,40.3,-74,1
+9/30/2006,Nut Island,ON,44.1,-76.7,1
+9/30/2006,Sulphur Rock,AR,35.7,-91.5,1
+9/30/2006,Ogunquit,ME,43.2,-70.6,1
+9/30/2006,Cabot,AR,34.9,-92,1
+9/30/2006,Asheville,NC,35.6,-82.6,1
+9/30/2006,Fort Worth,TX,32.8,-97.3,1
+9/29/2006,Pottsville,AR,35.2,-93.1,1
+9/29/2006,Acorn,AR,34.6,-94.2,1
+9/29/2006,Cub Run,KY,37.3,-86.1,1
+9/29/2006,Paducah,KY,37,-88.7,1
+9/29/2006,MARIETTA,OH,39.4,-81.5,1
+9/29/2006,Nashville,TN,36.2,-86.8,1
+9/29/2006,Gibson Island,MD,38.9,-77.1,1
+9/29/2006,Paducah,KY,37,-88.7,1
+9/29/2006,Charlottesville,VA,38.1,-78.4,1
+9/29/2006,Scottsburg,IN,38.7,-85.9,1
+9/28/2006,Cape May,NJ,39,-74.9,1
+9/28/2006,Dobbs Ferry,NY,41,-73.9,1
+9/28/2006,Brookline,MA,42.3,-71.1,1
+9/28/2006,Reston,VA,39,-77.3,1
+9/28/2006,Concord,MA,42.5,-71.4,1
+9/28/2006,Yellville,AR,36.2,-92.7,1
+9/28/2006,Bedford,NH,42.9,-71.5,1
+9/28/2006,saranac lake,NY,41.5,-74.4,1
+9/28/2006,Saint Paul,AR,35.9,-93.7,1
+9/28/2006,Bloomingdale,NJ,41,-74.3,1
+9/28/2006,Norfork,AR,36.2,-92.3,1
+9/28/2006,Woodbridge,CT,41.4,-73,1
+9/27/2006,Canton,GA,34.2,-84.5,1
+9/27/2006,Newton,NC,35.6,-81.3,1
+9/27/2006,Little Neck,NY,40.8,-73.8,1
+9/27/2006,new york,NY,40.7,-74,1
+9/27/2006,Imperial,MO,38.4,-90.4,1
+9/27/2006,Prouts Neck,ME,43.5,-70.3,1
+9/27/2006,New York,NY,40.7,-74,1
+9/27/2006,New York,NY,40.7,-74,1
+9/27/2006,New York,NY,40.7,-74,1
+9/27/2006,Toronto Islands,ON,43.6,-79.4,1
+9/27/2006,Northampton,MA,42.3,-72.7,1
+9/27/2006,Beverly,MA,42.6,-70.9,1
+9/27/2006,Medford,MA,42.4,-71.1,1
+9/27/2006,Villas (Miami Beach area),NJ,39,-75,1
+9/27/2006,Union,MO,38.4,-91.1,1
+9/27/2006,"Westport, Brier Island",NS,44.3,-66.4,1
+9/27/2006,Lebanon,OH,39.4,-84.2,1
+9/27/2006,New York,NY,40.8,-74,1
+9/27/2006,Swannanoa,NC,35.6,-82.4,1
+9/27/2006,Medford,MA,42.4,-71.1,1
+9/26/2006,Terre Haute,IN,39.4,-87.4,1
+9/26/2006,Ventnor,NJ,39.3,-74.5,1
+9/26/2006,Cape May,NJ,39,-74.9,1
+9/26/2006,Sunrise Beach,MO,38.2,-92.8,1
+9/26/2006,Atlantic City,NJ,39.4,-74.4,1
+9/26/2006,Margate,NJ,39.3,-74.5,1
+9/26/2006,Allens Pond,MA,41.5,-71,1
+9/26/2006,St. Peters,MO,38.8,-90.6,1
+9/26/2006,Rob Roy,IN,40,-86.4,1
+9/26/2006,Lawrence,KS,39,-95.2,1
+9/26/2006,Gooseberry Neck,MA,41.5,-71,1
+9/26/2006,Cape May,NJ,39,-74.9,1
+9/26/2006,York,ME,43.2,-70.7,1
+9/26/2006,Rowley,MA,42.7,-70.9,1
+9/26/2006,Morristown,NJ,40.8,-74.5,1
+9/26/2006,Overland Park,KS,38.9,-94.7,1
+9/26/2006,Bar Harbor,ME,44.4,-68.3,1
+9/25/2006,Bangor,PA,40.8,-75.2,1
+9/25/2006,Beverly,MA,42.6,-70.9,1
+9/25/2006,Westerly,RI,41.4,-71.8,1
+9/25/2006,North Beach,NJ,39.6,-74.2,1
+9/25/2006,Fire Island,NY,40.7,-73,1
+9/25/2006,Baxter Springs,KS,37.1,-94.8,1
+9/25/2006,Misquamicut,RI,41.3,-71.8,1
+9/25/2006,Cape May,NJ,39,-74.9,1
+9/25/2006,Kansas City,MO,39.1,-94.6,1
+9/25/2006,Saint Thomas,MO,38.4,-92.2,1
+9/25/2006,Assateague Island,VA,39.2,-77.3,1
+9/25/2006,St. Peters,MO,38.8,-90.6,1
+9/25/2006,Westhampton Beach,NY,40.8,-72.6,1
+9/25/2006,Kansas City,MO,39.1,-94.6,1
+9/25/2006,Montauk,NY,41,-71.9,1
+9/25/2006,Pennsburg,PA,40.4,-75.5,1
+9/25/2006,Madisonville,KY,37.3,-87.5,1
+9/24/2006,Russellville,MO,38.5,-92.4,1
+9/24/2006,East Corinth,VT,44.1,-72.2,1
+9/24/2006,Manhattan,NY,40.8,-74,1
+9/24/2006,Gloucester,MA,42.6,-70.7,1
+9/23/2006,Plains,PA,41.3,-75.8,1
+9/23/2006,Prairie City,IA,41.6,-93.3,1
+9/23/2006,Woodbridge,NJ,40.6,-74.3,1
+9/23/2006,Ashland,MO,38.8,-92.3,1
+9/23/2006,Jay,NY,44.4,-73.7,1
+9/23/2006,Cape May,NJ,39,-74.9,1
+9/23/2006,clarkesville,GA,34.7,-83.5,1
+9/23/2006,Springfield,VA,38.8,-77.2,1
+9/22/2006,Prairie City,IA,41.6,-93.3,1
+9/22/2006,Riverside Park,NY,40.8,-74,1
+9/22/2006,Chimney Rock,NC,35.4,-82.2,1
+9/22/2006,Geneva Shelby County,IN,39.4,-85.7,1
+9/22/2006,Smithville,OH,40.9,-81.9,1
+9/22/2006,Nahant,MA,42.4,-70.9,1
+9/22/2006,Hampton,NH,42.9,-70.8,1
+9/21/2006,Overland Park,KS,39,-94.7,1
+9/21/2006,Lawrence,KS,39,-95.2,1
+9/21/2006,State College,PA,40.8,-77.8,1
+9/21/2006,Cape Elizabeth,ME,43.6,-70.2,1
+9/21/2006,Park Ridge,IL,42,-87.8,1
+9/21/2006,Gilgo Beach,NY,40.6,-73.4,1
+9/21/2006,Salisbury,MA,42.8,-70.9,1
+9/21/2006,Wellsboro,PA,41.7,-77.4,1
+9/20/2006,Rochester,VT,43.9,-72.8,1
+9/20/2006,Lewistown,MO,40.1,-91.8,1
+9/20/2006,Brook Park,OH,41.4,-81.8,1
+9/20/2006,Des Moines,IA,41.6,-93.6,1
+9/20/2006,Rowan,ON,42.6,-80.3,1
+9/20/2006,Rockfish Gap,VA,38,-78.9,1
+9/20/2006,Lewistown,PA,40.6,-77.6,1
+9/20/2006,Pittsburg,NH,45.1,-71.3,1
+9/19/2006,Kansas City,MO,39.1,-94.6,1
+9/19/2006,Smithville,OH,40.9,-81.9,1
+9/19/2006,Mahogany Rock,NC,36.4,-81.1,1
+9/19/2006,Harvey's Knob,VA,37.4,-79.7,1
+9/18/2006,Ponca City,OK,36.7,-97.1,1
+9/18/2006,Kansas City,MO,39.1,-94.6,1
+9/18/2006,Marengo,IA,41.8,-92.1,1
+9/18/2006,Tuscola,IL,39.8,-88.3,1
+9/18/2006,Shawnee Mission,KS,39,-94.7,1
+9/18/2006,Kansas City,MO,39.1,-94.6,1
+9/17/2006,north royalton,OH,41.3,-81.7,1
+9/17/2006,Kansas City,MO,39.1,-94.6,1
+9/17/2006,Cat Rock Mountain,VA,37.8,-79,100
+9/17/2006,Georgia,VT,44.4,-73,1
+9/17/2006,Lexington,MA,42.4,-71.2,1
+9/17/2006,Urbana,IL,40.1,-88.2,1
+9/16/2006,Macon,IL,39.7,-88.9,1
+9/16/2006,New York,NY,40.7,-74,1
+9/16/2006,Lawrence,KS,39,-95.2,1
+9/16/2006,Monroe City,MO,39.6,-91.7,1
+9/16/2006,swannanoa,NC,35.6,-82.4,1
+9/15/2006,Mentor,OH,41.7,-81.3,1
+9/15/2006,Ottumwa,IA,41,-92.4,1
+9/15/2006,Cresco,IA,43.4,-92.2,1
+9/15/2006,Waynesboro,VA,38,-78.9,1
+9/15/2006,Kent,OH,41.1,-81.3,1
+9/15/2006,White Heath,IL,40.1,-88.5,1
+9/15/2006,Goddard,KS,37.6,-97.5,1
+9/14/2006,Lincoln,NE,40.8,-96.7,1
+9/13/2006,Prairie City,IA,41.6,-93.3,1
+9/13/2006,Oxford,OH,39.5,-84.7,1
+9/13/2006,Kalona,IA,41.5,-91.7,1
+9/13/2006,Indianapolis,IN,39.8,-86.1,1
+9/11/2006,Loda,IL,40.5,-88.1,1
+9/11/2006,Point Pelee National Park,ON,42,-82.5,1
+9/10/2006,Holiday Beach,ON,42.3,-83,1
+9/9/2006,Port Hope,ON,44,-78.4,1
+9/9/2006,Athens,IL,40,-89.7,1
+9/8/2006,Farmington,NY,42.9,-77.3,1
+9/8/2006,Pekin,IL,40.5,-89.6,1
+9/7/2006,Toronto,ON,43.7,-79.4,1
+9/7/2006,Anna,OH,40.4,-84.2,1
+9/7/2006,Montréal,QC,45.3,-73.4,1
+9/7/2006,greenwood,IN,39.6,-86.2,1
+9/6/2006,Bath,NY,42.3,-77.3,1
+9/6/2006,Orrville,OH,40.9,-81.8,1
+9/5/2006,Irwin,IA,41.8,-95.2,1
+9/5/2006,Lyons,NE,42,-96.5,1
+9/5/2006,Shawano,WI,44.8,-88.6,1
+9/4/2006,canton,OH,40.8,-81.4,1
+9/4/2006,Norfolk,NE,42,-97.5,1
+9/4/2006,Ravenna,OH,41.2,-81.2,1
+9/3/2006,Ada,OH,40.8,-83.8,1
+9/2/2006,Lakeville,MN,44.6,-93.2,1
+9/1/2006,Bowling Green,OH,41.4,-83.7,1
+9/1/2006,Norwich,VT,43.8,-72.3,1
+9/1/2006,Hamlin,NY,43.3,-77.9,1
+9/1/2006,Bluffton,OH,40.9,-83.9,1
+8/31/2006,Camlachie,ON,43,-82.2,1
+8/31/2006,Bay City,WI,44.6,-92.4,1
+8/31/2006,ecorse,MI,42.2,-83.1,1
+8/30/2006,Rochester,NY,43.2,-77.6,1
+8/30/2006,Watertown,SD,44.9,-97.2,1
+8/30/2006,Waterloo,IN,41.5,-85,1
+8/29/2006,Medina,NY,43.2,-78.4,1
+8/29/2006,Ransomville,NY,43.2,-78.9,1
+8/29/2006,Grand Bend,ON,43.3,-81.8,1
+8/28/2006,St. catharines,ON,43.1,-79.2,1
+8/28/2006,Long Point,ON,42.6,-80.4,1
+8/28/2006,Scottsville,NY,43,-77.8,1
+8/27/2006,St Catharines,ON,43.1,-79.2,1
+8/27/2006,St. Catharines,ON,43.1,-79.2,1
+8/26/2006,Hamilton,ON,43.2,-80,1
+8/26/2006,Medina,NY,43.2,-78.4,1
+8/26/2006,St. Catharines,ON,43.1,-79.2,1
+8/26/2006,Toronto,ON,43.7,-79.4,1
+8/26/2006,Williamson,NY,43.2,-77.2,1
+8/26/2006,Rochester,NY,43.2,-77.6,1
+8/25/2006,Canadian,TX,35.9,-100.4,1
+8/24/2006,Johnstown,NY,43,-74.4,1
+8/23/2006,Sandbanks,ON,43.9,-77.3,1
+8/22/2006,Whitby,ON,43.9,-78.9,1
+8/21/2006,Thornton,ON,44.3,-79.7,1
+8/21/2006,Port Hope,ON,44,-78.4,1
