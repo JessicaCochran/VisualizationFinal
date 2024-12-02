@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <title>Ruby-throated Hummingbird Seasonal Trends</title>
+    <style>
+        .tooltip {
+            position: absolute;
+            background-color: lightgray;
+            padding: 5px;
+            border: 1px solid #333;
+            pointer-events: none;
+        }
+        svg {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <label for="attribute-select">Choose an attribute: </label>
+    <select id="attribute-select">
+        <option value="abundance_mean">Abundance Mean</option>
+        <option value="range_percent_occupied">Range Percent Occupied</option>
+    </select>
+
+    <div id="chart"></div>
+    
+    <script>
+        // Seasonal trends data
+        const data = [
+            { season: "breeding", abundance_mean: 0.0125, range_percent_occupied: 0.081 },
+            { season: "nonbreeding", abundance_mean: 0.0868, range_percent_occupied: 0.797 },
+            { season: "postbreeding_migration", abundance_mean: 0.0042, range_percent_occupied: 0.2162 },
+            { season: "prebreeding_migration", abundance_mean: 0.0648, range_percent_occupied: 0.769 }
+        ];
+
+        let currentAttribute = "abundance_mean";
+        drawChart(data, currentAttribute);
+
+        // Update chart on dropdown change
+        d3.select("#attribute-select").on("change", function() {
+            currentAttribute = this.value;
+            drawChart(data, currentAttribute);
+        });
+
+        function drawChart(data, attribute) {
+            const margin = { top: 20, right: 30, bottom: 60, left: 60 };
+            const width = 800 - margin.left - margin.right;
+            const height = 400 - margin.top - margin.bottom;
+
+            // Clear existing chart
+            d3.select("#chart").html("");
+
+            // Create SVG canvas
+            const svg = d3.select("#chart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+            // Scales
+            const xScale = d3.scaleBand()
+                .domain(data.map(d => d.season))
+                .range([0, width])
+                .padding(0.1);
+
+            const yScale = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d[attribute])])
+                .nice()
+                .range([height, 0]);
+
+            // Axes
+            svg.append("g")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(xScale));
+
+            svg.append("g").call(d3.axisLeft(yScale));
+
+            // Bars
+            svg.selectAll(".bar")
+                .data(data)
+                .enter()
+                .append("rect")
+                .attr("class", "bar")
+                .attr("x", d => xScale(d.season))
+                .attr("y", d => yScale(d[attribute]))
+                .attr("width", xScale.bandwidth())
+                .attr("height", d => height - yScale(d[attribute]))
+                .attr("fill", "steelblue")
+                .on("mouseover", function(event, d) {
+                    const tooltip = d3.select("body")
+                        .append("div")
+                        .attr("class", "tooltip")
+                        .style("opacity", 0.9)
+                        .html(`<strong>${d.season}</strong><br>${attribute}: ${d[attribute]}`)
+                        .style("left", `${event.pageX + 10}px`)
+                        .style("top", `${event.pageY - 28}px`);
+
+                    d3.select(this).attr("fill", "darkorange");
+                })
+                .on("mouseout", function() {
+                    d3.selectAll(".tooltip").remove();
+                    d3.select(this).attr("fill", "steelblue");
+                });
+
+            // Chart title
+            svg.append("text")
+                .attr("x", width / 2)
+                .attr("y", -10)
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .style("font-weight", "bold")
+                .text(`Seasonal Trends: ${attribute}`);
+        }
+    </script>
+</body>
+</html>
