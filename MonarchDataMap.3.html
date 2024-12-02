@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/topojson.v3.min.js"></script>
+    <style>
+        .tooltip {
+            position: absolute;
+            background-color: #ffffff;
+            padding: 5px;
+            border: 1px solid #333;
+            border-radius: 4px;
+            font-size: 12px;
+            pointer-events: none;
+            opacity: 0;
+        }
+        svg {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <svg></svg>
+    <div class="tooltip"></div>
+
+    <script>
+        // Load the world map data
+        d3.json("https://raw.githubusercontent.com/JessicaCochran/Lab5/refs/heads/main/world_map.json").then(function(geo_json) {
+            const svg = d3.select("svg").attr("width", 1200).attr("height", 800);
+            const tooltip = d3.select(".tooltip");
+
+            // Define the projection to focus on North America
+            const projection = d3.geoEquirectangular()
+                .center([-100, 50]) // Center North America
+                .scale(700)        // Zoom in to show only North America
+                .translate([600, 400]); // Center the map in the SVG
+
+            const path = d3.geoPath().projection(projection);
+            const plot = svg.append("g");
+
+            // Draw the map
+            plot.selectAll("path")
+                .data(geo_json.features.filter(d => {
+                    // Filter to include only North America regions
+                    const bounds = path.bounds(d);
+                    return bounds[0][0] < 1200 && bounds[0][1] < 800;
+                }))
+                .enter()
+                .append("path")
+                .attr("d", path)
+                .attr("stroke", "#333")
+                .attr("fill", "#cce5df")
+                .attr("stroke-width", 0.5);
+
+            // Load Monarch butterfly data
+				d3.csv("https://raw.githubusercontent.com/JessicaCochran/VisualizationFinal/refs/heads/main/AllDates.csv").then(function(data) {
+
+                // Validate latitude and longitude
+                data = data.filter(d => !isNaN(+d.Latitude) && !isNaN(+d.Longitude));
+
+                // Parse years and create a color scale
+                data.forEach(d => d.Year = new Date(d.Date).getFullYear());
+                const colorScale = d3.scaleOrdinal(d3.schemeCategory10)
+                    .domain([...new Set(data.map(d => d.Year))]);
+
+                // Scale for circle sizes
+                const sizeScale = d3.scaleSqrt()
+                    .domain([0, d3.max(data, d => +d.Number)])
+                    .range([2, 20]);
+
+                // Add circles for sightings
+                plot.selectAll("circle")
+                    .data(data)
+                    .enter()
+                    .append("circle")
+                    .attr("cx", d => projection([+d.Longitude, +d.Latitude])[0])
+                    .attr("cy", d => projection([+d.Longitude, +d.Latitude])[1])
+                    .attr("r", d => sizeScale(+d.Number))
+                    .attr("fill", d => colorScale(d.Year))
+                    .attr("opacity", 0.7)
+                    .on("mouseover", (event, d) => {
+                        tooltip.transition().duration(200).style("opacity", 1);
+                        tooltip.html(
+                            `Date: ${d.Date}<br>
+                             Town: ${d.Town}<br>
+                             State: ${d["State/Providence"]}<br>
+                             Latitude: ${d.Latitude}<br>
+                             Longitude: ${d.Longitude}<br>
+                             Number: ${d.Number}<br>
+                             Year: ${d.Year}`
+                        )
+                        .style("left", (event.pageX + 10) + "px")
+                        .style("top", (event.pageY - 20) + "px");
+                    })
+                    .on("mouseout", () => tooltip.transition().duration(200).style("opacity", 0))
+                    .on("mousemove", (event) => {
+                        tooltip.style("left", (event.pageX + 10) + "px")
+                               .style("top", (event.pageY - 20) + "px");
+                    });
+
+                // Add zoom and pan functionality
+                svg.call(d3.zoom()
+                    .scaleExtent([1, 8])
+                    .on("zoom", (event) => {
+                        plot.attr("transform", event.transform);
+                    })
+                );
+            });
+        });
+    </script>
+</body>
+</html>
