@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Monarch Butterfly Trends</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        .chart {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .axis path, .axis line {
+            fill: none;
+            stroke: #000;
+            shape-rendering: crispEdges;
+        }
+        .line {
+            fill: none;
+            stroke-width: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="chart" id="ow_trend_chart"></div>
+    <div class="chart" id="observation_trends_chart"></div>
+    
+    <script>
+        // Overwintering Habitat Trend
+        const owTrendChart = d3.select("#ow_trend_chart");
+        const owWidth = 800, owHeight = 400, owMargin = { top: 20, right: 30, bottom: 30, left: 40 };
+
+        const owSvg = owTrendChart.append("svg")
+            .attr("width", owWidth)
+            .attr("height", owHeight);
+
+        const owG = owSvg.append("g")
+            .attr("transform", `translate(${owMargin.left}, ${owMargin.top})`);
+
+        d3.json("ow_trend.json").then(data => {
+            const x = d3.scaleLinear()
+                .domain(d3.extent(data, d => d.year))
+                .range([0, owWidth - owMargin.left - owMargin.right]);
+
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(data, d => d.OW_ha)])
+                .nice()
+                .range([owHeight - owMargin.top - owMargin.bottom, 0]);
+
+            owG.append("g")
+                .call(d3.axisBottom(x).ticks(data.length))
+                .attr("transform", `translate(0,${owHeight - owMargin.top - owMargin.bottom})`);
+
+            owG.append("g").call(d3.axisLeft(y));
+
+            owG.append("path")
+                .datum(data)
+                .attr("class", "line")
+                .attr("stroke", "steelblue")
+                .attr("d", d3.line()
+                    .x(d => x(d.year))
+                    .y(d => y(d.OW_ha))
+                );
+
+            owG.append("text")
+                .attr("x", (owWidth - owMargin.left - owMargin.right) / 2)
+                .attr("y", -10)
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .text("Overwintering Habitat Area Trend (1994-2021)");
+        });
+
+        // Observation Trends (Summer vs Fall)
+        const obsTrendChart = d3.select("#observation_trends_chart");
+        const obsWidth = 800, obsHeight = 400, obsMargin = { top: 20, right: 30, bottom: 30, left: 40 };
+
+        const obsSvg = obsTrendChart.append("svg")
+            .attr("width", obsWidth)
+            .attr("height", obsHeight);
+
+        const obsG = obsSvg.append("g")
+            .attr("transform", `translate(${obsMargin.left}, ${obsMargin.top})`);
+
+        d3.json("observation_trends.json").then(data => {
+            const x = d3.scaleLinear()
+                .domain(d3.extent(data, d => d.year))
+                .range([0, obsWidth - obsMargin.left - obsMargin.right]);
+
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(data, d => Math.max(d.Ohio_summer_per_obs, d.Ohio_fall_per_obs))])
+                .nice()
+                .range([obsHeight - obsMargin.top - obsMargin.bottom, 0]);
+
+            obsG.append("g")
+                .call(d3.axisBottom(x).ticks(data.length))
+                .attr("transform", `translate(0,${obsHeight - obsMargin.top - obsMargin.bottom})`);
+
+            obsG.append("g").call(d3.axisLeft(y));
+
+            const lineSummer = d3.line()
+                .x(d => x(d.year))
+                .y(d => y(d.Ohio_summer_per_obs));
+
+            const lineFall = d3.line()
+                .x(d => x(d.year))
+                .y(d => y(d.Ohio_fall_per_obs));
+
+            obsG.append("path")
+                .datum(data)
+                .attr("class", "line")
+                .attr("stroke", "green")
+                .attr("d", lineSummer);
+
+            obsG.append("path")
+                .datum(data)
+                .attr("class", "line")
+                .attr("stroke", "orange")
+                .attr("d", lineFall);
+
+            obsG.append("text")
+                .attr("x", (obsWidth - obsMargin.left - obsMargin.right) / 2)
+                .attr("y", -10)
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .text("Summer vs Fall Observations (1994-2021)");
+        });
+    </script>
+</body>
+</html>
